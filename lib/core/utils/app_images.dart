@@ -1,0 +1,30 @@
+abstract class AppImage {
+  static String homeIcon = 'assets/images/home.svg';
+  static String searchIcon = 'assets/images/search.svg';
+  static String cartIcon = 'assets/images/cart.svg';
+  static String profileIcon = 'assets/images/person.svg';
+  static String drawerIcon = 'assets/images/drawer-icon.svg';
+  static String shopWindow = 'assets/images/shop-window.svg';
+  static String screen = 'assets/images/image6.png';
+  static String phone = 'assets/images/phone.png';
+  static String watches = 'assets/images/watches.png';
+  static String laptop = 'assets/images/laptop.png';
+  static String tablet = 'assets/images/tablet.png';
+  static String airpods = 'assets/images/airpods.png';
+  static String accessory = 'assets/images/accessory.png';
+  static String hp = 'assets/images/hp.png';
+  static String dell = 'assets/images/dell.png';
+  static String huawei = 'assets/images/huawei.png';
+  static String samsung = 'assets/images/samsung.png';
+  static String apple = 'assets/images/apple.png';
+  static String lenovo = 'assets/images/lenovo.png';
+  static String bestseller2 = 'assets/images/bestseller2.png';
+  static String bestseller1 = 'assets/images/bestseller1.png';
+  static String bestseller0 = 'assets/images/bestseller0.png';
+  static String bestseller3 = 'assets/images/bestseller3.png';
+  static String cart1 = 'assets/images/cart1.png';
+  static String cart2 = 'assets/images/cart2.png';
+  static String dashsquare = 'assets/images/dash-square.svg';
+  static String exit = 'assets/images/exit.svg';
+  static String union = 'assets/images/union.svg';
+}
